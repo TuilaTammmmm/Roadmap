@@ -8,4 +8,9 @@ This repository contains front-end projects.
 
 ## Project Solution
 
-![https://assets.roadmap.sh/guest/resume-template-zyl70.png](./Single-PageCV/Single-page-CV.html)_Giao diện mẫu dự án Single-Page CV_
+<div align="center">
+  <a href="https://tuilatammmmm.github.io/Roadmap/Single-PageCV/Single-page-CV.html">
+    <img src="https://assets.roadmap.sh/guest/resume-template-zyl70.png" alt="Single-Page CV" width="500">
+    <p>Single-Page CV</p>
+  </a>
+</div>
