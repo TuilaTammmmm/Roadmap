@@ -4,4 +4,4 @@ This repository contains front-end projects.
 
 ## Projects List
 
-- [Single Page CV](./Single-PageCV/Single-page-CV.html)
+- [Single Page CV](./Single-PageCV/Single-page-CV.html)https://roadmap.sh/projects/single-page-cv
