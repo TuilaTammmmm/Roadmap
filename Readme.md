@@ -38,7 +38,6 @@ This repository contains front-end projects.
         </a>
       </td>
     </tr>
-
     <tr>
       <td style="padding: 10px; border: none;">
         <a href="https://github.com/TuilaTammmmm/Roadmap/blob/main/Personal-Portfolio/Personal-Portfolio.html" style="text-decoration: none; color: inherit;">
