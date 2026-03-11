@@ -15,7 +15,7 @@ This repository contains front-end projects.
   <!-- Single-Page CV-->
     <tr>
       <td style="padding: 10px; border: none;">
-        <a href="https://tuilatammmmm.github.io/Roadmap/Single-PageCV/Single-page-CV.html" style="text-decoration: none; color: inherit;">
+        <a href="https://github.com/TuilaTammmmm/Roadmap/blob/main/Single-PageCV/Single-page-CV.html" style="text-decoration: none; color: inherit;">
           <div style="width: 350px; border: 2px solid transparent; transition: 0.3s; border-radius: 8px;" 
                onmouseover="this.style.borderColor='#007bff'; this.style.boxShadow='0 0 10px rgba(0,123,255,0.5)';" 
                onmouseout="this.style.borderColor='transparent'; this.style.boxShadow='none';">
@@ -30,7 +30,7 @@ This repository contains front-end projects.
   <!-- Basic HTML Website-->
     <tr>
       <td style="padding: 10px; border: none;">
-        <a href="https://tuilatammmmm.github.io/Roadmap/Basic-HTML-Website/Basic-HTML-Website.html" style="text-decoration: none; color: inherit;">
+        <a href="https://github.com/TuilaTammmmm/Roadmap/blob/main/Basic-HTML-Website/Basic-HTML-Website.html" style="text-decoration: none; color: inherit;">
           <div style="width: 350px; border: 2px solid transparent; transition: 0.3s; border-radius: 8px;" 
                onmouseover="this.style.borderColor='#007bff'; this.style.boxShadow='0 0 10px rgba(0,123,255,0.5)';" 
                onmouseout="this.style.borderColor='transparent'; this.style.boxShadow='none';">
@@ -45,7 +45,7 @@ This repository contains front-end projects.
     <!--  -->
     <tr>
       <td style="padding: 10px; border: none;">
-        <a href="https://tuilatammmmm.github.io/Roadmap/Basic-HTML-Website/Personal-Portfolio.html" style="text-decoration: none; color: inherit;">
+        <a href="https://github.com/TuilaTammmmm/Roadmap/blob/main/Personal-Portfolio/Personal-Portfolio.html" style="text-decoration: none; color: inherit;">
           <div style="width: 350px; border: 2px solid transparent; transition: 0.3s; border-radius: 8px;" 
                onmouseover="this.style.borderColor='#007bff'; this.style.boxShadow='0 0 10px rgba(0,123,255,0.5)';" 
                onmouseout="this.style.borderColor='transparent'; this.style.boxShadow='none';">
